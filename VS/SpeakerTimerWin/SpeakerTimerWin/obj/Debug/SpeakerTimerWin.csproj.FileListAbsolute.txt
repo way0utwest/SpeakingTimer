@@ -1,0 +1,9 @@
+e:\Documents\GitHub\SpeakingTimer\VS\SpeakerTimerWin\SpeakerTimerWin\bin\Debug\SpeakerTimerWin.exe.config
+e:\Documents\GitHub\SpeakingTimer\VS\SpeakerTimerWin\SpeakerTimerWin\bin\Debug\SpeakerTimerWin.exe
+e:\Documents\GitHub\SpeakingTimer\VS\SpeakerTimerWin\SpeakerTimerWin\bin\Debug\SpeakerTimerWin.pdb
+e:\Documents\GitHub\SpeakingTimer\VS\SpeakerTimerWin\SpeakerTimerWin\obj\Debug\SpeakerTimerWin.csprojResolveAssemblyReference.cache
+e:\Documents\GitHub\SpeakingTimer\VS\SpeakerTimerWin\SpeakerTimerWin\obj\Debug\SpeakerTimerWin.frmMain.resources
+e:\Documents\GitHub\SpeakingTimer\VS\SpeakerTimerWin\SpeakerTimerWin\obj\Debug\SpeakerTimerWin.Properties.Resources.resources
+e:\Documents\GitHub\SpeakingTimer\VS\SpeakerTimerWin\SpeakerTimerWin\obj\Debug\SpeakerTimerWin.csproj.GenerateResource.Cache
+e:\Documents\GitHub\SpeakingTimer\VS\SpeakerTimerWin\SpeakerTimerWin\obj\Debug\SpeakerTimerWin.exe
+e:\Documents\GitHub\SpeakingTimer\VS\SpeakerTimerWin\SpeakerTimerWin\obj\Debug\SpeakerTimerWin.pdb
